@@ -1,8 +1,8 @@
 [
   {
     "id": "slot_anime_2",
-    "title": "Anime 2",
-    "coverUrl": "",
+    "title": "Akogare no Onna Joushi ga",
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtOh3lu3ksb1nmkvOtJTYkJEwdOV_xIrd38DYHc70tVmtdYigyuTalhxo&s=10",
     "isFavoriteNtr": false,
     "isModoH": false,
     "episodes": [
@@ -10,8 +10,8 @@
         "id": "slot_anime_2_ep_1",
         "number": 1,
         "title": "Capítulo 1",
-        "latinoUrl": "",
-        "japonesUrl": ""
+        "": "",
+        "": ""
       },
       {
         "id": "slot_anime_2_ep_2",
