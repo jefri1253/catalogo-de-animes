@@ -1,0 +1,639 @@
+[
+  {
+    "id": "slot_anime_2",
+    "title": "Anime 2",
+    "coverUrl": "",
+    "isFavoriteNtr": false,
+    "isModoH": false,
+    "episodes": [
+      {
+        "id": "slot_anime_2_ep_1",
+        "number": 1,
+        "title": "Capítulo 1",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_2",
+        "number": 2,
+        "title": "Capítulo 2",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_3",
+        "number": 3,
+        "title": "Capítulo 3",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_4",
+        "number": 4,
+        "title": "Capítulo 4",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_5",
+        "number": 5,
+        "title": "Capítulo 5",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_6",
+        "number": 6,
+        "title": "Capítulo 6",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_7",
+        "number": 7,
+        "title": "Capítulo 7",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_8",
+        "number": 8,
+        "title": "Capítulo 8",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_9",
+        "number": 9,
+        "title": "Capítulo 9",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_10",
+        "number": 10,
+        "title": "Capítulo 10",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_11",
+        "number": 11,
+        "title": "Capítulo 11",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_2_ep_12",
+        "number": 12,
+        "title": "Capítulo 12",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "slot_anime_3",
+    "title": "Anime 3",
+    "coverUrl": "",
+    "isFavoriteNtr": false,
+    "isModoH": false,
+    "episodes": [
+      {
+        "id": "slot_anime_3_ep_1",
+        "number": 1,
+        "title": "Capítulo 1",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_2",
+        "number": 2,
+        "title": "Capítulo 2",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_3",
+        "number": 3,
+        "title": "Capítulo 3",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_4",
+        "number": 4,
+        "title": "Capítulo 4",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_5",
+        "number": 5,
+        "title": "Capítulo 5",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_6",
+        "number": 6,
+        "title": "Capítulo 6",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_7",
+        "number": 7,
+        "title": "Capítulo 7",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_8",
+        "number": 8,
+        "title": "Capítulo 8",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_9",
+        "number": 9,
+        "title": "Capítulo 9",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_10",
+        "number": 10,
+        "title": "Capítulo 10",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_11",
+        "number": 11,
+        "title": "Capítulo 11",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_3_ep_12",
+        "number": 12,
+        "title": "Capítulo 12",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "slot_anime_4",
+    "title": "Anime 4",
+    "coverUrl": "",
+    "isFavoriteNtr": false,
+    "isModoH": false,
+    "episodes": [
+      {
+        "id": "slot_anime_4_ep_1",
+        "number": 1,
+        "title": "Capítulo 1",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_2",
+        "number": 2,
+        "title": "Capítulo 2",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_3",
+        "number": 3,
+        "title": "Capítulo 3",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_4",
+        "number": 4,
+        "title": "Capítulo 4",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_5",
+        "number": 5,
+        "title": "Capítulo 5",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_6",
+        "number": 6,
+        "title": "Capítulo 6",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_7",
+        "number": 7,
+        "title": "Capítulo 7",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_8",
+        "number": 8,
+        "title": "Capítulo 8",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_9",
+        "number": 9,
+        "title": "Capítulo 9",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_10",
+        "number": 10,
+        "title": "Capítulo 10",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_11",
+        "number": 11,
+        "title": "Capítulo 11",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_4_ep_12",
+        "number": 12,
+        "title": "Capítulo 12",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "slot_anime_5",
+    "title": "overlord",
+    "coverUrl": "https:\/\/static.wikia.nocookie.net\/overlord\/images\/1\/10\/Overlord_Key_visual.jpg\/revision\/latest?cb=20230728164319&path-prefix=es",
+    "isFavoriteNtr": false,
+    "isModoH": false,
+    "episodes": [
+      {
+        "id": "slot_anime_5_ep_1",
+        "number": 1,
+        "title": "Capítulo 1",
+        "latinoUrl": "https:\/\/www.blogger.com\/video.g?token=AD6v5dwEOFLDDVPlmC_MaibsFFSQ9abw2L8wwZKsNBMe-obRmOfKAERlVOuXkxr0K7WoU0uY9frIv0OUUA77JXR7OIiuroKQdd6H3QcF_6MtRVuwss6eUHDpxPj0Eoy0cf-OQm6Wqgx2",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_2",
+        "number": 2,
+        "title": "Capítulo 2",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_3",
+        "number": 3,
+        "title": "Capítulo 3",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_4",
+        "number": 4,
+        "title": "Capítulo 4",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_5",
+        "number": 5,
+        "title": "Capítulo 5",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_6",
+        "number": 6,
+        "title": "Capítulo 6",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_7",
+        "number": 7,
+        "title": "Capítulo 7",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_8",
+        "number": 8,
+        "title": "Capítulo 8",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_9",
+        "number": 9,
+        "title": "Capítulo 9",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_10",
+        "number": 10,
+        "title": "Capítulo 10",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_11",
+        "number": 11,
+        "title": "Capítulo 11",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "slot_anime_5_ep_12",
+        "number": 12,
+        "title": "Capítulo 12",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "fav_ntr_1",
+    "title": "Favorito NTR 1",
+    "coverUrl": "",
+    "isFavoriteNtr": true,
+    "isModoH": true,
+    "episodes": [
+      {
+        "id": "fav_ntr_1_ep_1",
+        "number": 1,
+        "title": "Capítulo 1",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_2",
+        "number": 2,
+        "title": "Capítulo 2",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_3",
+        "number": 3,
+        "title": "Capítulo 3",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_4",
+        "number": 4,
+        "title": "Capítulo 4",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_5",
+        "number": 5,
+        "title": "Capítulo 5",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_6",
+        "number": 6,
+        "title": "Capítulo 6",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_7",
+        "number": 7,
+        "title": "Capítulo 7",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_8",
+        "number": 8,
+        "title": "Capítulo 8",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_9",
+        "number": 9,
+        "title": "Capítulo 9",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_10",
+        "number": 10,
+        "title": "Capítulo 10",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_11",
+        "number": 11,
+        "title": "Capítulo 11",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_1_ep_12",
+        "number": 12,
+        "title": "Capítulo 12",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "fav_ntr_2",
+    "title": "Favorito NTR 2",
+    "coverUrl": "",
+    "isFavoriteNtr": true,
+    "isModoH": true,
+    "episodes": [
+      {
+        "id": "fav_ntr_2_ep_1",
+        "number": 1,
+        "title": "Capítulo 1",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_2",
+        "number": 2,
+        "title": "Capítulo 2",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_3",
+        "number": 3,
+        "title": "Capítulo 3",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_4",
+        "number": 4,
+        "title": "Capítulo 4",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_5",
+        "number": 5,
+        "title": "Capítulo 5",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_6",
+        "number": 6,
+        "title": "Capítulo 6",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_7",
+        "number": 7,
+        "title": "Capítulo 7",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_8",
+        "number": 8,
+        "title": "Capítulo 8",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_9",
+        "number": 9,
+        "title": "Capítulo 9",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_10",
+        "number": 10,
+        "title": "Capítulo 10",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_11",
+        "number": 11,
+        "title": "Capítulo 11",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_2_ep_12",
+        "number": 12,
+        "title": "Capítulo 12",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "fav_ntr_3",
+    "title": "overflow",
+    "coverUrl": "https:\/\/static.wikia.nocookie.net\/wiki-doblaje-espana\/images\/6\/66\/OVERFLOW.png\/revision\/latest\/thumbnail\/width\/360\/height\/450?cb=20251209014008&path-prefix=es",
+    "isFavoriteNtr": true,
+    "isModoH": true,
+    "episodes": [
+      {
+        "id": "fav_ntr_3_ep_3",
+        "number": 3,
+        "title": "Capítulo 3",
+        "latinoUrl": "https:\/\/player.zilla-networks.com\/m3u8\/2e1161d1e9475fba25edcb0aa334f6bd",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_3_ep_4",
+        "number": 4,
+        "title": "Capítulo 4",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_3_ep_5",
+        "number": 5,
+        "title": "Capítulo 5",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_3_ep_6",
+        "number": 6,
+        "title": "Capítulo 6",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_3_ep_7",
+        "number": 7,
+        "title": "Capítulo 7",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_3_ep_8",
+        "number": 8,
+        "title": "Capítulo 8",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_3_ep_9",
+        "number": 9,
+        "title": "Capítulo 9",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_3_ep_10",
+        "number": 10,
+        "title": "Capítulo 10",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_3_ep_11",
+        "number": 11,
+        "title": "Capítulo 11",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      },
+      {
+        "id": "fav_ntr_3_ep_12",
+        "number": 12,
+        "title": "Capítulo 12",
+        "latinoUrl": "",
+        "japonesUrl": ""
+      }
+    ]
+  }
+]
