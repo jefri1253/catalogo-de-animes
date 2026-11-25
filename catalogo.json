@@ -96,8 +96,8 @@
     "id": "slot_anime_3",
     "title": "Natsu to Hako",
     "coverUrl": "https://cdn.hentaila.com/covers/1180.jpg",
-    "isFavoriteNtr": true,
-    "isModoH": false,
+    "isFavoriteNtr": false,
+    "isModoH": true,
     "episodes": [
       {
         "id": "slot_anime_3_ep_1",
