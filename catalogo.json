@@ -1,8 +1,8 @@
 [
   {
     "id": "slot_anime_2",
-    "title": "Akogare no Onna Joushi ga",
-    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtOh3lu3ksb1nmkvOtJTYkJEwdOV_xIrd38DYHc70tVmtdYigyuTalhxo&s=10",
+    "title": "",
+    "coverUrl": "",
     "isFavoriteNtr": false,
     "isModoH": true,
     "episodes": [
@@ -11,7 +11,7 @@
         "number": 1,
         "title": "Capítulo 1",
         "latinoUrl": "",
-        "japonesUrl": "https://pub-632527e786d24a39bc44cfa92e92121e.r2.dev/P%C3%A1gina%20web%20no%20disponible_720p_HD.mp4"
+        "japonesUrl": ""
       },
       {
         "id": "slot_anime_2_ep_2",
@@ -94,8 +94,8 @@
   },
   {
     "id": "slot_anime_3",
-    "title": "Natsu to Hako",
-    "coverUrl": "https://cdn.hentaila.com/covers/1180.jpg",
+    "title": "",
+    "coverUrl": "",
     "isFavoriteNtr": false,
     "isModoH": true,
     "episodes": [
@@ -280,8 +280,8 @@
   },
   {
     "id": "slot_anime_5",
-    "title": "overlord",
-    "coverUrl": "https:\/\/static.wikia.nocookie.net\/overlord\/images\/1\/10\/Overlord_Key_visual.jpg\/revision\/latest?cb=20230728164319&path-prefix=es",
+    "title": "",
+    "coverUrl": "",
     "isFavoriteNtr": false,
     "isModoH": false,
     "episodes": [
@@ -289,7 +289,7 @@
         "id": "slot_anime_5_ep_1",
         "number": 1,
         "title": "Capítulo 1",
-        "latinoUrl": "https:\/\/www.blogger.com\/video.g?token=AD6v5dwEOFLDDVPlmC_MaibsFFSQ9abw2L8wwZKsNBMe-obRmOfKAERlVOuXkxr0K7WoU0uY9frIv0OUUA77JXR7OIiuroKQdd6H3QcF_6MtRVuwss6eUHDpxPj0Eoy0cf-OQm6Wqgx2",
+        "latinoUrl": "",
         "japonesUrl": ""
       },
       {
@@ -467,7 +467,7 @@
   {
     "id": "fav_ntr_2",
     "title": "Favorito NTR 2",
-    "coverUrl": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2020/12/Shingeki-no-Kyojin-Temporada-Final.jpg?resize=640%2C904&ssl=1",
+    "coverUrl": "",
     "isFavoriteNtr": true,
     "isModoH": false,
     "episodes": [
@@ -475,7 +475,7 @@
         "id": "fav_ntr_2_ep_1",
         "number": 1,
         "title": "capitulo 1",
-        "latinoUrl": "https://pub-632527e786d24a39bc44cfa92e92121e.r2.dev/P%C3%A1gina%20web%20no%20disponible_720p_HD.mp4",
+        "latinoUrl": "",
         "japonesUrl": ""
       },
       {
@@ -568,7 +568,7 @@
         "id": "fav_ntr_3_ep_3",
         "number": 3,
         "title": "Capítulo 3",
-        "latinoUrl": "https:\/\/player.zilla-networks.com\/m3u8\/2e1161d1e9475fba25edcb0aa334f6bd",
+        "latinoUrl": "",
         "japonesUrl": ""
       },
       {
