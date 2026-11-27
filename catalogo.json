@@ -1,16 +1,16 @@
 [
   {
     "id": "slot_anime_2",
-    "title": "",
-    "coverUrl": "",
+    "title": "atako taitan",
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ovbrdwdUtMoQTYLMp_-kRTOS7iHdyD3YypxLsfGljQnuHX6AAi0R_3g&s=10",
     "isFavoriteNtr": false,
-    "isModoH": true,
+    "isModoH": false,
     "episodes": [
       {
         "id": "slot_anime_2_ep_1",
         "number": 1,
         "title": "Capítulo 1",
-        "latinoUrl": "",
+        "latinoUrl": "https://pub-632527e786d24a39bc44cfa92e92121e.r2.dev",
         "japonesUrl": ""
       },
       {
